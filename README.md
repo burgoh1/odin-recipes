@@ -1,4 +1,6 @@
 # odin-recipes
-First odin project project (recipes)
+# this is a test to commit a message 
+# another line i wanna add to test commit
 
-I will learn basic html skills such as writing paragraphs, formating pages, and creating relative links to make the website more interactive.
+testing commits 
+
